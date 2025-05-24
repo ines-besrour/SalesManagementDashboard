@@ -12,7 +12,7 @@ The **Sales Management Dashboard** project designed to streamline and visualize 
 - **Maven**: Build automation and dependency management.
 
 ## Presentation
-You can view the full presentation [here](https://www.canva.com/design/DAGErHIbbc8/qv87-XjTf3Z40KwmDbaoCQ/edit).
+You can view the full presentation with a demo [here](https://www.canva.com/design/DAGErHIbbc8/qv87-XjTf3Z40KwmDbaoCQ/edit).
 This project was presented as part of a data engineering and real-time analytics module. The Canva slides detail the architecture, implementation strategy, and key insights gained during development.
 
 ## Architecture
