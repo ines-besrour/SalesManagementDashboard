@@ -17,4 +17,4 @@ This project was presented as part of a data engineering and real-time analytics
 
 ## Architecture
 
-![Architecture Diagram](assests/architecture.png)
+![Architecture Diagram](assets/architecture.jpg)
